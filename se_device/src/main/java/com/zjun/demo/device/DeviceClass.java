@@ -36,7 +36,7 @@ public class DeviceClass {
 
             /**
              * 响应时的打包数据
-             * * dataType(1) + len(4) + data(n)
+             * dataType(1) + len(4) + data(n)
              */
             @Override
             protected byte[] packUserData() {
