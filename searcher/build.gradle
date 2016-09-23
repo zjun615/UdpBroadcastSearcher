@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+// ========使用UTF-8编码格式========
+// 新版gradle
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
