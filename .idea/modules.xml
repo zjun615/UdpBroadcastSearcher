@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppDevice/AppDevice.iml" filepath="$PROJECT_DIR$/AppDevice/AppDevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppHost/AppHost.iml" filepath="$PROJECT_DIR$/AppHost/AppHost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdpBroadcastSearcher.iml" filepath="$PROJECT_DIR$/UdpBroadcastSearcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/se_device/se_device.iml" filepath="$PROJECT_DIR$/se_device/se_device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/se_host/se_host.iml" filepath="$PROJECT_DIR$/se_host/se_host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searcher/searcher.iml" filepath="$PROJECT_DIR$/searcher/searcher.iml" />
+    </modules>
+  </component>
+</project>
