@@ -16,7 +16,11 @@ import java.lang.ref.WeakReference;
 import java.net.InetSocketAddress;
 
 /**
+<<<<<<< HEAD
  * 设备 —— 简单demo使用
+=======
+ * 设备 —— 简单demo
+>>>>>>> 14e21603f58a2ff67878bb7ea5e9993a2bfba80d
  */
 public class DeviceActivity extends AppCompatActivity implements View.OnClickListener {
 

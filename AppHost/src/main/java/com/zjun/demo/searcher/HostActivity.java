@@ -52,6 +52,11 @@ public class HostActivity extends AppCompatActivity implements View.OnClickListe
         btn_search.setOnClickListener(this);
     }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 14e21603f58a2ff67878bb7ea5e9993a2bfba80d
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
