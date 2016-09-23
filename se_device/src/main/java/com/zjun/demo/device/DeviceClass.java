@@ -36,11 +36,7 @@ public class DeviceClass {
 
             /**
              * 响应时的打包数据
-<<<<<<< HEAD
              * dataType(1) + len(4) + data(n)
-=======
-             * * dataType(1) + len(4) + data(n)
->>>>>>> 14e21603f58a2ff67878bb7ea5e9993a2bfba80d
              */
             @Override
             protected byte[] packUserData() {
@@ -77,12 +73,9 @@ public class DeviceClass {
             /**
              * 解析用户数据
              * len(4) + data(n)
-<<<<<<< HEAD
              * @param type 类型，搜索请求or搜索确认
              * @param userData 用户数据
              * @return 解析结果是否成功
-=======
->>>>>>> 14e21603f58a2ff67878bb7ea5e9993a2bfba80d
              */
             @Override
             public boolean parseUserData(byte type, byte[] userData) {
