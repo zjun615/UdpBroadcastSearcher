@@ -73,6 +73,9 @@ public class DeviceClass {
             /**
              * 解析用户数据
              * len(4) + data(n)
+             * @param type 类型，搜索请求or搜索确认
+             * @param userData 用户数据
+             * @return 解析结果是否成功
              */
             @Override
             public boolean parseUserData(byte type, byte[] userData) {
